@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Ravenous
+
+A single-page React app that queries the Yelp API to find the businesses that best match a keyword and location, by best match, highest rated and most reviewed.
+
+Ravenous has been deployed at: [narrow=produce.surge.sh](http://narrow-produce.surge.sh). This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
